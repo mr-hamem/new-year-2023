@@ -1,0 +1,1 @@
+prompt('Please type "Happy new year 2023"')
